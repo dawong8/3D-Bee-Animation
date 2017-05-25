@@ -170,9 +170,7 @@ Animation.prototype.display = function(time)
                 earth = new Material( Color( .5,.5,.5,1 ), .1,  1, .5, 40, "earth.gif" ),
                 white = new Material( Color( .5,.5,.5,1 ), .1,  1,  1, 40, "stars.png" );
 			
-		/**********************************
-		Start coding down here!!!!
-		**********************************/                                     // From this point on down it's just some examples for you -- feel free to comment it all out.
+		                                   // From this point on down it's just some examples for you -- feel free to comment it all out.
 
     model_transform = mult( model_transform, scale( 2, 2, 2 ) ) // matrix here is [2,2,2] ?
     var temp = model_transform;
