@@ -1,3 +1,1 @@
-I made the bee's legs shorter to look better, since size doesn't matter. 
-
-To begin, please zoom out a little by pressing AWSD and space keys. 
+This is an animation project of a 3-dimensional bumble bee flying around a swaying flower. 
